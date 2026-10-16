@@ -20,6 +20,5 @@
 ---
 
 <p align="center">
-  <sub>Designed & Crafted by <b>Karven</b> · Signed <i>komorebi</i></sub><br>
   <sub>© 2026 FluxTide (流汐云母). All rights reserved.</sub>
 </p>
